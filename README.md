@@ -13,7 +13,7 @@
 
 <b>Automation Consultant (DXC-Belgium)	</b>             
 &emsp;&emsp;•	Worked as an automation consultant for Flemish Government Software projects in Education, Tax, Transportation sectors to build Test Automation Strategies, Framework with selenium and conduct training across the Projects, which was one of the key factors on Project Renewal. <br>
-&emsp;&emsp;•	Build an automation center with a pool of resource where testing challenges have been analyzed and deliver solutions across domains and technologies resulting, with in 2 releases almost 10% increase in the quality of the product delivered. 
+&emsp;&emsp;•	Build an automation center with a pool of resource where testing challenges have been analyzed and deliver solutions across domains and technologies resulting, with in 2 releases almost 10% increase in the quality of the product delivered. <br>
 &emsp;&emsp;•	Worked as a part of the International Team, handling the Retail and wholesale offshore automation team of 8 Resources. <br>
 &emsp;&emsp;•	Developed a tool for developing manual test case automatically in a customer defined format in excel which result in saving 5% of the review effort.
 
